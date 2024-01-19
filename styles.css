@@ -294,3 +294,7 @@ ul.ArticleList li::before {
   margin-bottom: 15px;
   color: #1f84a6; 
 }
+
+.contactme {
+  font-size: 2em;
+}
